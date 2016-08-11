@@ -1,0 +1,27 @@
+{
+  "name": "import-elasticsearch-document",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d6u/import-elasticsearch-document.git"
+  },
+  "keywords": [],
+  "author": "Daiwei Lu <daiweilu123@gmail.com> (http://daiwei.lu/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d6u/import-elasticsearch-document/issues"
+  },
+  "homepage": "https://github.com/d6u/import-elasticsearch-document#readme",
+  "dependencies": {
+    "co": "4.6.0",
+    "commander": "2.9.0",
+    "convict": "1.4.0",
+    "elasticsearch": "11.0.1",
+    "ramda": "0.22.1"
+  }
+}
